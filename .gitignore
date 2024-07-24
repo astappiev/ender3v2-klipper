@@ -14,5 +14,6 @@ moonraker.asvc
 octoeverywhere-system.cfg
 crowsnest.conf.*
 printer-*.cfg
+*.bkp
 *.conf.bkp
 *.conf.backup
