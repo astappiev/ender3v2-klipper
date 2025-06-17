@@ -12,6 +12,7 @@ systemd/
 moonraker.asvc
 
 octoeverywhere-system.cfg
+moonraker-obico.cfg
 crowsnest.conf.*
 printer-*.cfg
 *.bkp
